@@ -1,0 +1,7 @@
+C:\Users\40758\Desktop\FP\Pool2\problema6\bin\Debug\problema6.exe.config
+C:\Users\40758\Desktop\FP\Pool2\problema6\bin\Debug\problema6.exe
+C:\Users\40758\Desktop\FP\Pool2\problema6\bin\Debug\problema6.pdb
+C:\Users\40758\Desktop\FP\Pool2\problema6\obj\Debug\problema6.csprojAssemblyReference.cache
+C:\Users\40758\Desktop\FP\Pool2\problema6\obj\Debug\problema6.csproj.CoreCompileInputs.cache
+C:\Users\40758\Desktop\FP\Pool2\problema6\obj\Debug\problema6.exe
+C:\Users\40758\Desktop\FP\Pool2\problema6\obj\Debug\problema6.pdb
